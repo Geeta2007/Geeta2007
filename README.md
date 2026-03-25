@@ -5,14 +5,14 @@ I enjoy building projects to improve my understanding of software development an
 
 ## Skills
 
-* HTML
-* CSS
-* JavaScript
+* Frontend: HTML5, CSS3, JavaScript (DOM Manipulation, Event Handling), Responsive Design (Mobile-First)
+* Bootstrap (Basic) 
+* Backend: Node.js, Express.js, RESTful APIs, MongoDB/MySQL (Basic CRUD operations)
+* Soft Skills: Collaborative Coding, Problem-Solving, Tech Leadership 
 * Git & GitHub
-* 
+
 ## Currently Learning
 
-* Backend Development (Node.js / Express)
 * Data Structures & Algorithms
 * Problem Solving (DSA)
 
