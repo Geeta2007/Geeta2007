@@ -5,24 +5,25 @@ I enjoy building projects to improve my understanding of software development an
 
 ## Skills
 
-* Frontend: HTML5, CSS3, JavaScript (DOM Manipulation, Event Handling), Responsive Design (Mobile-First)
-* Bootstrap (Basic) 
-* Backend: Node.js, Express.js, RESTful APIs, MongoDB/MySQL (Basic CRUD operations)
-* Soft Skills: Collaborative Coding, Problem-Solving, Tech Leadership 
-* Git & GitHub
+* Frontend: HTML5, CSS3, JavaScript (DOM Manipulation, Event Handling), Responsive Design (Mobile-First).
+* Bootstrap (Basic).
+* Backend: Node.js, Express.js, RESTful APIs, MongoDB/MySQL (Basic CRUD operations).
+* Soft Skills: Collaborative Coding, Problem-Solving, Tech Leadership.
+* Git & GitHub.
 
 ## Currently Learning
 
-* Data Structures & Algorithms
-* Problem Solving (DSA)
+* Data Structures & Algorithms.
+* Problem Solving (DSA).
 
 ## Projects
 
 Here are some projects I am working on and improving:
 
-* Portfolio Website
-* Simon Says Game
-* DSA Practice Repository
+* Portfolio Website.
+* Simon Says Game.
+* DSA Practice Repository.
+* Built a website for a university.
 
 ## Goals
 
