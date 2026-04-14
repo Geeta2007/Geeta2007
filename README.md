@@ -21,7 +21,6 @@ I enjoy building projects to improve my understanding of software development an
 Here are some projects I am working on and improving:
 
 * Portfolio Website.
-* Simon Says Game.
 * DSA Practice Repository.
 * Built a website for a university.
 
