@@ -23,12 +23,15 @@ Here are some projects I am working on and improving:
 * Portfolio Website.
 * DSA Practice Repository.
 * Built a website for a university.
+* Memory boster Game.
+* NourushNet Food donation website
 
 ## Goals
 
-* Strengthen problem-solving using Data Structures & Algorithms
-* Build full-stack web applications
-* Contribute to open source
+* Strengthen problem-solving using Data Structures & Algorithms.
+* Building solution for real world problems using AI Technologies.
+* Build full-stack web applications.
+* Contribute to open source.
 
 ## Contact
 
