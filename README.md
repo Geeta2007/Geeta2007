@@ -24,7 +24,7 @@ Here are some projects I am working on and improving:
 * DSA Practice Repository.
 * Built a website for a university.
 * Memory boster Game.
-* NourushNet Food donation website
+* NourushNet Food donation website.
 
 ## Goals
 
