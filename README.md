@@ -1,6 +1,6 @@
 # Hi, I'm Geeta
 
-Second-year Engineering student focused on Web Development and Data Structures & Algorithms.
+Engineering student focused on Web Development and Data Structures & Algorithms.
 I enjoy building projects to improve my understanding of software development and problem-solving.
 
 ## Skills
@@ -23,13 +23,15 @@ Here are some projects I am working on and improving:
 * Portfolio Website.
 * DSA Practice Repository.
 * Built a website for a university.
-* Memory boster Game.
-* NourushNet Food donation website.
+* Memory Booster Game.
+* NourishNet food donation website.
+* Aroma caffe website
+* CRM website
 
 ## Goals
 
 * Strengthen problem-solving using Data Structures & Algorithms.
-* Building solution for real world problems using AI Technologies.
+* Building solutions for real-world problems using AI Technologies.
 * Build full-stack web applications.
 * Contribute to open source.
 
